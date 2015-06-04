@@ -267,7 +267,7 @@ PHG4CrystalCalorimeterDetector::FillCrystalUnit(G4LogicalVolume *crystal_logic)
 	
 	//Read in mapping file for a single 4 x 4 block
 
-	const string Crystal_Mapping_Small = "./Crystal_Mapping_Small.txt"
+	const string Crystal_Mapping_Small = "/direct/phenix+u/jlab/github/wip/Crystal_Subunit_Mapping.txt"
 	const in k_cry = 6; // Number of indices in mapping file for 4x4 block
 
         ifstream datafile_2;

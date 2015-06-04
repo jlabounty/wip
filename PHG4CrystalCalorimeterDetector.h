@@ -79,7 +79,7 @@ private:
 
   int ConstructCrystals(G4LogicalVolume* envelope);
 
-  int PHG4CrystalCalorimeterDetector::FillCrystalUnit(G4LogicalVolume *crystal_logic);
+  int FillCrystalUnit(G4LogicalVolume *crystal_logic);
 
   /* Calorimeter envelope geometry */
   G4double _place_in_x;
