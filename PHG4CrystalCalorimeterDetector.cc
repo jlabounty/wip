@@ -173,7 +173,7 @@ PHG4CrystalCalorimeterDetector::FillCrystalUnit(G4LogicalVolume *crystal_logic)
 	//**********Build First Crystal********
 	//*************************************
 	
-	//Crystal Dimensions determined by the _dx_front, with various gaps and carbon fiber widths subtracted out
+	//Crystal Dimensions determined by the _dx_front and _dx_back, with various gaps and carbon fiber widths subtracted out
 
 	G4double carbon_fiber_width = 0.18*mm;						//Width of the carbon fiber which surrounds the crystal
 	G4double air_gap_carbon_fiber = 0.24*mm; 					//Air gap between crystal and the carbon fiber

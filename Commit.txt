@@ -1,0 +1,1 @@
+git commit -m "Fixes issue with naming for individual crystals. Implements two functions in PHG4CrystalCalorimeterSteppingAction.cc (WhoAreYou and ParseName) which together determine the name of each crystal and the unique j and k indices by summing the indices for the crystal within the 2x2 block, the 2x2 block within the 4x4 block, and the 4x4 block within the mother volume."
