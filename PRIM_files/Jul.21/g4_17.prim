@@ -1,0 +1,658 @@
+##G4.PRIM-FORMAT-2.4
+/BoundingBox       -1709.21365       -1709.21365       -3244.21365        1709.21365        1709.21365        174.213651
+!SetCamera
+!OpenDevice
+!BeginModeling
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1240
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1250
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1260
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1270
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1280
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1290
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1300
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1310
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1320
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1330
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1340
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1350
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1360
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1370
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1380
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1390
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1400
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1410
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1420
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1430
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1440
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1450
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1460
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1470
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1480
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1490
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1500
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1510
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1520
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1530
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1540
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1550
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1560
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1570
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1580
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1590
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1600
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1610
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1620
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1630
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1640
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1650
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1660
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1670
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1680
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1690
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1700
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1710
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1720
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1730
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1740
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1750
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1760
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1770
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1780
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1790
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1800
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1810
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1820
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1830
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex                 0                 0                 0
+/PLVertex        25.7230564        25.7264386       -131.945061
+/PLVertex        32.0030298        32.0078648       -164.159035
+/PLVertex        32.0777305        32.0825782       -164.542218
+/PLVertex        47.3729978         47.380347       -242.994766
+/PLVertex        50.7760241        50.7838622       -260.448721
+/PLVertex        67.0412388        67.0518429       -343.877539
+/PLVertex        75.0036346        75.0152094       -384.722491
+/PLVertex         81.822984        81.8352206       -419.705762
+/PLVertex        103.715295        103.726257       -532.006831
+/PLVertex        124.756388        124.762053       -639.932169
+/PLVertex        162.477055        162.469662       -833.384473
+/PLVertex        166.400834        166.391604       -853.505833
+/PLVertex        191.723677        191.702078       -983.364451
+/PLVertex         210.80395        210.774997       -1081.21672
+/PLVertex        221.104226        221.072427       -1134.04017
+/PLVertex        241.667574        241.630189           -1239.5
+/PLVertex        241.714379        241.676997       -1239.74008
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        221.104226        221.072427       -1134.04017
+/PLVertex        221.105385        221.102864       -1134.03511
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex         210.80395        210.774997       -1081.21672
+/PLVertex         210.68998        210.458126        -1081.3266
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        166.400834        166.391604       -853.505833
+/PLVertex         166.37936        166.455915       -853.500572
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        162.477055        162.469662       -833.384473
+/PLVertex        162.395775        162.386586       -833.423131
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        124.756388        124.762053       -639.932169
+/PLVertex        125.073889        123.789058       -640.165485
+/PLVertex        124.541486        123.763858       -640.282162
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        103.715295        103.726257       -532.006831
+/PLVertex        103.288785        103.840215       -532.103131
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex         81.822984        81.8352206       -419.705762
+/PLVertex        81.7985686        81.8531547         -419.7081
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        75.0036346        75.0152094       -384.722491
+/PLVertex        74.9875633        75.1114064       -384.711835
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        67.0412388        67.0518429       -343.877539
+/PLVertex        69.2244951        68.8465966       -343.522421
+/PLVertex        69.7721044         70.810901       -343.252922
+/PLVertex          69.84896        71.2747676        -343.20725
+/PLVertex        69.9617435        71.6873361       -342.796285
+/PLVertex        69.9457876        71.7367301       -342.781034
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex          69.84896        71.2747676        -343.20725
+/PLVertex         70.038252        71.4665055        -343.44867
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        50.7760241        50.7838622       -260.448721
+/PLVertex         51.467125        50.5810702       -260.417918
+/PLVertex        51.4430873        50.6080996       -260.418635
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        47.3729978         47.380347       -242.994766
+/PLVertex        47.3659601        47.3590545       -243.001048
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        32.0777305        32.0825782       -164.542218
+/PLVertex        32.0552276        32.0572471       -164.552863
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        32.0030298        32.0078648       -164.159035
+/PLVertex        32.5741456        33.3668512       -163.952775
+/PLVertex        32.9047854        33.9299902       -163.815789
+/PLVertex        32.8947489        34.0249935       -163.873081
+/EndPolyline
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        25.7230564        25.7264386       -131.945061
+/PLVertex        25.7341025        25.7463842       -131.939781
+/EndPolyline
+/ColorRGB                 0                 1                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        241.714379        241.676997       -1239.74008
+/PLVertex          241.8624        241.825214           -1240.5
+/EndPolyline
+/ColorRGB                 0                 1                 0
+/ForceWireframe  0
+/Origin                 0                 0                 0
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyline
+/PLVertex        191.723677        191.702078       -983.364451
+/PLVertex        241.645479        241.581653           -1239.5
+/PLVertex        241.840383        241.776392           -1240.5
+/EndPolyline
+#--------------------
+!EndModeling
+!DrawAll
+!CloseDevice

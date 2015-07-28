@@ -1,0 +1,1449 @@
+##G4.PRIM-FORMAT-2.4
+/BoundingBox       -2028.69459       -2028.69459       -3244.21365        2028.69459        2028.69459        813.175532
+!SetCamera
+!OpenDevice
+!BeginModeling
+#--------------------
+#/PVName          eEMCAL_0.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0            -991.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.0651902       657.850561        21.998528       655.863097              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1240
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1001              1002              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_1.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0            -994.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.1318524       659.838025       22.0651902       657.850561              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1250
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1002              1003              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_2.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0            -997.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.1985146       661.825489       22.1318524       659.838025              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1260
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1003              1004              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_3.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1000.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.2651768       663.812953       22.1985146       661.825489              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1270
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1004              1005              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_4.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1003.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons         22.331839       665.800417       22.2651768       663.812953              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1280
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1005              1006              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_5.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1006.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.3985012       667.787881        22.331839       665.800417              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1290
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1006              1007              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_6.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1009.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.4651634       669.775345       22.3985012       667.787881              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1300
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1007              1008              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_7.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1012.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.5318256       671.762809       22.4651634       669.775345              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1310
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1008              1009              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_8.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1015.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.5984878       673.750273       22.5318256       671.762809              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1320
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1009              1010              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_9.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1018.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons          22.66515       675.737737       22.5984878       673.750273              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1330
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1010              1011              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_10.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1021.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.7318122       677.725201         22.66515       675.737737              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1340
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1011              1012              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_11.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1024.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.7984745       679.712665       22.7318122       677.725201              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1350
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1012              1013              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_12.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1027.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.8651367       681.700129       22.7984745       679.712665              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1360
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1013              1014              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_13.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1030.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.9317989       683.687592       22.8651367       681.700129              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1370
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1014              1015              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_14.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1033.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        22.9984611       685.675056       22.9317989       683.687592              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1380
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1015              1016              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_15.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1036.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.0651233        687.66252       22.9984611       685.675056              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1390
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1016              1017              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_16.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1039.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.1317855       689.649984       23.0651233        687.66252              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1400
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1017              1018              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_17.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1042.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.1984477       691.637448       23.1317855       689.649984              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1410
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1018              1019              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_18.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1045.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.2651099       693.624912       23.1984477       691.637448              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1420
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1019              1020              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_19.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1048.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.3317721       695.612376       23.2651099       693.624912              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1430
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1020              1021              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_20.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1051.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.3984343        697.59984       23.3317721       695.612376              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1440
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1021              1022              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_21.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1054.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.4650965       699.587304       23.3984343        697.59984              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1450
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1022              1023              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_22.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1057.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.5317587       701.574768       23.4650965       699.587304              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1460
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1023              1024              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_23.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1060.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.5984209       703.562232       23.5317587       701.574768              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1470
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1024              1025              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_24.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1063.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.6650831       705.549696       23.5984209       703.562232              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1480
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1025              1026              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_25.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1066.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.7317453        707.53716       23.6650831       705.549696              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1490
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1026              1027              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_26.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1069.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.7984075       709.524624       23.7317453        707.53716              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1500
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1027              1028              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_27.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1072.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.8650697       711.512088       23.7984075       709.524624              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1510
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1028              1029              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_28.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1075.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons         23.931732       713.499551       23.8650697       711.512088              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1520
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1029              1030              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_29.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1078.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        23.9983942       715.487015        23.931732       713.499551              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1530
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1030              1031              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_30.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1081.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.0650564       717.474479       23.9983942       715.487015              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1540
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1031              1032              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_31.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1084.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.1317186       719.461943       24.0650564       717.474479              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1550
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1032              1033              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_32.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1087.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.1983808       721.449407       24.1317186       719.461943              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1560
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1033              1034              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_33.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1090.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons         24.265043       723.436871       24.1983808       721.449407              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1570
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1034              1035              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_34.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1093.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.3317052       725.424335        24.265043       723.436871              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1580
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1035              1036              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_35.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1096.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.3983674       727.411799       24.3317052       725.424335              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1590
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1036              1037              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_36.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1099.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.4650296       729.399263       24.3983674       727.411799              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1600
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1037              1038              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_37.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1102.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.5316918       731.386727       24.4650296       729.399263              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1610
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1038              1039              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_38.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1105.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons         24.598354       733.374191       24.5316918       731.386727              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1620
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1039              1040              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_39.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1108.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.6650162       735.361655        24.598354       733.374191              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1630
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1040              1041              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_40.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1111.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.7316784       737.349119       24.6650162       735.361655              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1640
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1041              1042              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_41.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1114.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.7983406       739.336583       24.7316784       737.349119              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1650
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1042              1043              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_42.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1117.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.8650028       741.324046       24.7983406       739.336583              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1660
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1043              1044              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_43.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1120.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons         24.931665        743.31151       24.8650028       741.324046              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1670
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1044              1045              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_44.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1123.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        24.9983272       745.298974        24.931665        743.31151              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1680
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1045              1046              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_45.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1126.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.0649895       747.286438       24.9983272       745.298974              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1690
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1046              1047              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_46.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1129.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.1316517       749.273902       25.0649895       747.286438              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1700
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1047              1048              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_47.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1132.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.1983139       751.261366       25.1316517       749.273902              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1710
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1048              1049              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_48.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1135.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.2649761        753.24883       25.1983139       751.261366              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1720
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1049              1050              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_49.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1138.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.3316383       755.236294       25.2649761        753.24883              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1730
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1050              1051              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_50.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1141.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.3983005       757.223758       25.3316383       755.236294              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1740
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1051              1052              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_51.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1144.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.4649627       759.211222       25.3983005       757.223758              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1750
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1052              1053              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_52.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1147.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.5316249       761.198686       25.4649627       759.211222              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1760
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1053              1054              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_53.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1150.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.5982871        763.18615       25.5316249       761.198686              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1770
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1054              1055              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_54.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1153.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.6649493       765.173614       25.5982871        763.18615              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1780
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1055              1056              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_55.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1156.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.7316115       767.161078       25.6649493       765.173614              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1790
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1056              1057              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_56.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1159.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.7982737       769.148542       25.7316115       767.161078              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1800
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1057              1058              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_57.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1162.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.8649359       771.136005       25.7982737       769.148542              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1810
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1058              1059              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_58.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1165.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.9315981       773.123469       25.8649359       771.136005              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1820
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1059              1060              1000                 0        6.28318531
+#--------------------
+#/PVName          eEMCAL_59.0
+/Ndiv  24
+/ColorRGB                 1                 0                 0
+/ForceWireframe  0
+/Origin                 0                 0           -1168.5
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons        25.9982603       775.110933       25.9315981       773.123469              1.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0             -1830
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Cons                 0             1000                0             1000              0.5                0       6.28318531
+#--------------------
+#/PVName          GarbageCollector_cyl.0
+/Ndiv  24
+/ColorRGB                 1                 0                 1
+/ForceWireframe  0
+/Origin                 0                 0              -990
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Tubs              1060              1061              1000                 0        6.28318531
+#--------------------
+!EndModeling
+!DrawAll
+!CloseDevice
